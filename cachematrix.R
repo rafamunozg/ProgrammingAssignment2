@@ -67,3 +67,5 @@ cacheSolve <- function(x, ...) {
   x$setinverse(rinverse)
   rinverse
 }
+
+## Reviewed for submit.
